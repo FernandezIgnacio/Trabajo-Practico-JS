@@ -16,6 +16,6 @@ console.log(nombre3);
 
 //region Matematica
 function calculoSuma(num1,num2){
-    
+    var total = num1+num2;
 }
 //endregion
