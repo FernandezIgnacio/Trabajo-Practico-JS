@@ -35,3 +35,7 @@ function calculoDivision (num1, num2){
     return total;
 }
 //endregion
+
+//region Repetitiva
+
+//endregion
