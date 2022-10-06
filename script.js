@@ -9,5 +9,5 @@ var num2 = 5;
 //endregion
 
 //region Mostrar
-
+console.log(nombre1);
 //endregion
