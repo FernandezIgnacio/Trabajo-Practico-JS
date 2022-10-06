@@ -13,3 +13,7 @@ console.log(nombre1);
 console.log(nombre2);
 console.log(nombre3);
 //endregion
+
+//region Matematica
+
+//endregion
