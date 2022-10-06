@@ -37,5 +37,7 @@ function calculoDivision (num1, num2){
 //endregion
 
 //region Repetitiva
-
+    for (value of fin){
+        
+    }
 //endregion
