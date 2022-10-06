@@ -29,4 +29,8 @@ function calculoMultiplicacion (num1, num2){
     var total = num1*num2;
     return total;
 }
+
+function calculoDivision (num1, num2){
+    
+}
 //endregion
