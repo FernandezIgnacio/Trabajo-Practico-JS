@@ -38,6 +38,6 @@ function calculoDivision (num1, num2){
 
 //region Repetitiva
     for (value of fin){
-        
+        console.log(value++);
     }
 //endregion
