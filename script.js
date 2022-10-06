@@ -7,3 +7,7 @@ var fin = array(0,1,2,3,4);
 var num1 = 10;
 var num2 = 5;
 //endregion
+
+//region Mostrar
+
+//endregion
