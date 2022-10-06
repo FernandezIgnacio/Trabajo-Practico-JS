@@ -11,4 +11,5 @@ var num2 = 5;
 //region Mostrar
 console.log(nombre1);
 console.log(nombre2);
+console.log(nombre3);
 //endregion
